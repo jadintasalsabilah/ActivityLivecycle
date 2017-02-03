@@ -1,7 +1,7 @@
 # ActivityLivecycle
 
-![screenshot_2017-01-27-07-54-45-91](https://cloud.githubusercontent.com/assets/22228545/22359491/17329bf6-e47a-11e6-9bcb-41969031cdd8.png)
-![screenshot_2017-01-27-07-54-51-63](https://cloud.githubusercontent.com/assets/22228545/22359492/1baf5962-e47a-11e6-81b4-14a811b09035.png)
+![live1](https://cloud.githubusercontent.com/assets/22228545/22583356/99912b9a-ea1e-11e6-94db-5695a4fc03d0.jpg)
+![live2](https://cloud.githubusercontent.com/assets/22228545/22583372/ad5f8fe0-ea1e-11e6-928c-e8e045857bf1.jpg)
 
 ### nama : jadinta salsabila herdianti
 ### kelas : XI RPL 6
